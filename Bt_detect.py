@@ -9,7 +9,7 @@ def get_parser():
 	@return: arguments list
 	@rtype: parser object
 	"""
-	parser = argparse.ArgumentParser(description='parse Fluidigm output and assign serovar')
+	parser = argparse.ArgumentParser(description='Bacillus Thuringiensis serovars aizaiwai and kurstaki detection')
 
 	parser.add_argument('-i', action="store", dest='genome_list',
 						nargs='+', required=True, help='genome assemblies (REQUIRED)')
