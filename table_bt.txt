@@ -1,0 +1,20 @@
+Bt	WP_021728236.1|Bt_CwlA	WP_000237488.1|Bt_intQ	WP_000858032.1|Bt_group_3916	WP_042596929.1|Bt_group_20749	WP_002101540.1|Bt_group_20361	WP_000998670.1|Bt_sdpR
+aizaiwai	WP_021728520.1|Bta_apr
+kurstaki	WP_003273526.1|Btk_group_27293	WP_001293418.1|Btk_group_27336
+clusterA	WP_000415284.1|clustera_group_10114
+clusterB	WP_050062578.1|clusterb_rapF	WP_131256056.1|clusterb_group_20667
+clusterC	AHZ54004.1|clusterc_lexA
+clusterD	WP_000791073.1|clusterd_clpP1
+###							
+	Bt	aizaiwai	kurstaki	clusterA	clusterB	clusterC	clusterD
+Bacillus thuringiensis	1	-1	-1	0	0	0	0
+Bacillus thuringiensis	1	1	1	0	0	0	0
+not Bacillus thuringiensis	-1	0	0	0	0	0	0
+Bacillus thuringiensis aizaiwai not clustered	1	1	-1	-1	-1	0	0
+Bacillus thuringiensis aizaiwai not clustered	1	1	-1	1	1	0	0
+Bacillus thuringiensis kurstaki not clustered	1	-1	1	0	0	-1	-1
+Bacillus thuringiensis kurstaki not clustered	1	-1	1	0	0	1	1
+Bacillus thuringiensis aizaiwai cluster A	1	1	-1	1	-1	0	0
+Bacillus thuringiensis aizaiwai cluster B	1	1	-1	-1	1	0	0
+Bacillus thuringiensis kurstaki cluster C	1	-1	1	0	0	1	-1
+Bacillus thuringiensis kurstaki cluster D	1	-1	1	0	0	-1	1
