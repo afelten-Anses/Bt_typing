@@ -18,13 +18,13 @@ def get_parser():
 						type=str, default="table_bt.txt", help='Decision table (default:table_bt.txt)')
 						
 	parser.add_argument('-min_id', action="store", dest='min_identity',
-						type=str, default='90', help='Delta max value for filter (default:90)')					
+						type=str, default='90', help='minimum percent of blast identity (default:90)')					
 
 	parser.add_argument('-min_cov', action="store", dest='min_coverage',
-						type=str, default="90", help='Output file (default:90)')	
+						type=str, default="90", help='minimum percent of blast coverage (default:90)')	
 						
 	parser.add_argument('-db_dir', action="store", dest='db_dir',
-						type=str, default="abricate_db", help='database dir (default:abricate_db)')	
+						type=str, default="abricate_db", help='database dir (default:db)')	
 
 	parser.add_argument('-T', action="store", dest='threads',
 						type=str, default="4", help='number of threads (default:4)')								
