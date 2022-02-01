@@ -24,7 +24,7 @@ def get_parser():
 						type=str, default="90", help='minimum percent of blast coverage (default:90)')	
 						
 	parser.add_argument('-db_dir', action="store", dest='db_dir',
-						type=str, default="abricate_db", help='database dir (default:db)')	
+						type=str, default="db/markers", help='database dir (default:db/markers)')	
 
 	parser.add_argument('-T', action="store", dest='threads',
 						type=str, default="4", help='number of threads (default:4)')								
