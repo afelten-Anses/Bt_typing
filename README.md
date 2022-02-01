@@ -35,4 +35,9 @@ Parameters of the script is available with one of its 3 options :
 * -db_dir : marker sequences path (default:*db/markers*)
 * -T : Number of threads to use (default:4)
 
+## Test
 
+Donwload or clone this git repository, then :
+
+	cd Bt_typing
+	python Bt_detect.py -i test/Bc_ATCC_14579.fasta test/Bt_kurstaki_HD1.fasta test/Leapi01.fasta -db_dir db/markers -t table_bt.txt > result.txt
