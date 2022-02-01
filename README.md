@@ -15,7 +15,7 @@ You can find the latest version of the tool at [https://github.com/afelten-Anses
 * python3 (tested with 3.7.9)
 * blast (tested with 2.10.1) 
 
-Note : to use an other blast version, you might have to remake the marker database using the makeblastdb command. 
+**Note :** to use an other blast version, you might have to remake the marker database using the *makeblastdb* command. 
 
 
 ## Parameters
@@ -29,10 +29,10 @@ Parameters of the script is available with one of its 3 options :
 ### Bt_detect parameters list
 
 * -i : genome assemblie(s) path(s) in fasta format (REQUIRED)
-* -t : table_bt.txt file path (default:table_bt.txt)
+* -t : table_bt.txt file path (default:*table_bt.txt*)
 * -min_id : minimum percent of blast identity (default:90)
 * -min_cov : minimum percent of blast coverage (default:90)
-* -db_dir : marker sequences path (default:db/markers.fna)
+* -db_dir : marker sequences path (default:*db/markers*)
 * -T : Number of threads to use (default:4)
 
 
