@@ -15,6 +15,8 @@ You can find the latest version of the tool at [https://github.com/afelten-Anses
 * python3 (tested with 3.7.9)
 * blast (tested with 2.10.1) 
 
+Note : to use an other blast version, you might have to remake the marker database using the makeblastdb command. 
+
 
 ## Parameters
 
