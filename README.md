@@ -32,7 +32,7 @@ Parameters of the script is available with one of its 3 options :
 * -t : table_bt.txt file path (default:table_bt.txt)
 * -min_id : minimum percent of blast identity (default:90)
 * -min_cov : minimum percent of blast coverage (default:90)
-* -db_dir : Minimum percent of alignment coverage (default:db)
+* -db_dir : marker sequences path (default:db/markers.fna)
 * -T : Number of threads to use (default:4)
 
 
