@@ -1,0 +1,3 @@
+Bc_ATCC_14579	Bt(-)	aizaiwai(-)	kurstaki(-)	clusterA(-)	clusterB(-)	clusterC(-)	clusterD(-)	not Bacillus thuringiensis
+Bt_kurstaki_HD1	Bt(+)	aizaiwai(-)	kurstaki(+)	clusterA(-)	clusterB(-)	clusterC(-)	clusterD(-)	Bacillus thuringiensis kurstaki not clustered
+Leapi01	Bt(+)	aizaiwai(+)	kurstaki(-)	clusterA(-)	clusterB(-)	clusterC(-)	clusterD(-)	Bacillus thuringiensis aizaiwai not clustered
