@@ -1,9 +1,9 @@
 # Bt_typing
 
-Bacillus Thuringiensis serovars aizaiwai and kurstaki detection
+Bacillus thuringiensis serovars aizaiwai and kurstaki detection
 
 
-Authors: Arnaud Felten
+Author: Arnaud Felten
 
 Affiliation: [Ploufragan-Plouzané-Niort Laboratory, viral genetics and biosafety Unit, French Agency for Food, Environmental and Occupational Health (ANSES), 22440 Ploufragan, France](https://www.anses.fr/en/content/ploufragan-plouzan%C3%A9-niort-laboratory)
 
@@ -15,12 +15,12 @@ You can find the latest version of the tool at [https://github.com/afelten-Anses
 * python3 (tested with 3.7.9)
 * blast (tested with 2.10.1) 
 
-**Note :** to use an other blast version, you might have to remake the marker database using the *makeblastdb* command. 
+**Note :** to use another blast version, you might have to remake the marker database using the *makeblastdb* command. 
 
 
 ## Parameters
 
-Parameters of the script is available with one of its 3 options :
+Parameters of the script are available with one of its 3 options :
 
 	Bt_detect.py
 	Bt_detect.py -h
