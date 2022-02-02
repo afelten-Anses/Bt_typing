@@ -1,6 +1,6 @@
 # Bt_typing
 
-Bacillus thuringiensis serovars aizaiwai and kurstaki detection
+*Bacillus thuringiensis* serovars aizaiwai and kurstaki detection
 
 
 Author: Arnaud Felten
