@@ -25,9 +25,6 @@ def get_parser():
 
 	parser.add_argument('-min_cov', action="store", dest='min_coverage',
 						type=str, default="90", help='minimum percent of blast coverage (default:90)')	
-						
-	parser.add_argument('-db_dir', action="store", dest='db_dir',
-						type=str, default="db/markers", help='database dir (default:db/markers)')	
 
 	return parser
 
